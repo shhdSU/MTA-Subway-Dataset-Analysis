@@ -1,5 +1,5 @@
 ## 🚧 Note
-All analysis done within three notebook:
+All analysis done within three Jupyter notebooks:
 - For MTA Subway data:
   - MTA_Data_Cleaning
   - MTA_Data_analysis_and_visualization
