@@ -6,7 +6,7 @@ For those reasons, in order of products nature, we need to discover the rush per
 During this project some important questions will be answered, which are:
 - Is the MTA subway more crowded during the Christmas or the New Year period?
 - then, what is the most crowded station?
-- What is the most crowded day?
+- What is the most crowded day? <br/><br/>
 All those previous questions for an easier decision-making process and based on the results or answers we will decide to be moving forward or chose another period and place, all to find a solution that satisfies our client.
 ## Data Description
 All the datasets come from the [MTA](http://web.mta.info/developers/turnstile.html) website, the website provides weekly datasets about their subway in New York, but we will use some of them, about 2,476,441 rows, we will start by twelve weeks during four years, two of them in the New Year period and other two during Christmas period, with taking COVID-19 pandemic in 2020 - 2021 into consideration, since the datasets contain 2020, 2019, 2018 and 2021, we chose two weeks from each chosen period to compare it together, the figures below show the chosen periods and each bubble represent one week.
