@@ -10,10 +10,13 @@ During this project some important questions will be answered, which are:
 All those previous questions for an easier decision-making process and based on the results or answers we will decide to be moving forward or chose another period and place, all to find a solution that satisfies our client.
 ## Data Description
 All the datasets come from the [MTA](http://web.mta.info/developers/turnstile.html) website, the website provides weekly datasets about their subway in New York, but we will use some of them, about 2,476,441 rows, we will start by twelve weeks during four years, two of them in the New Year period and other two during Christmas period, with taking COVID-19 pandemic in 2020 - 2021 into consideration, since the datasets contain 2020, 2019, 2018 and 2021, we chose two weeks from each chosen period to compare it together, the figures below show the chosen periods and each bubble represent one week.
-For more about our datasets, in the table in Appendix ‘A’ clear description of its characteristics as in [MTA](http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt) website.
-![First Period](https://github.com/shhdSU/MTA-Subway-Dataset-Analysis/blob/main/Images/Period1.png)
-![Second Period](https://github.com/shhdSU/MTA-Subway-Dataset-Analysis/blob/main/Images/Period2.png)
-![Third Period](https://github.com/shhdSU/MTA-Subway-Dataset-Analysis/blob/main/Images/Period3.png)
+For more about our datasets, in the table in Appendix ‘A’ clear description of its characteristics as in [MTA](http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt) website.<br/><br/>
+<img src = 'https://github.com/shhdSU/MTA-Subway-Dataset-Analysis/blob/main/Images/Period1.png'  width="600" height="150" />
+<br/>
+<img src = 'https://github.com/shhdSU/MTA-Subway-Dataset-Analysis/blob/main/Images/Period2.png'  width="600" height="150" />
+<br/>
+<img src = 'https://github.com/shhdSU/MTA-Subway-Dataset-Analysis/blob/main/Images/Period2.png'  width="600" height="150" />
+
 To more understanding and faster processing, I will add some features shown in table below, but more features may be added in the future depends on our analysis needs.
 | Feature Name | Feature Description |
 | ----------- | ----------- |
