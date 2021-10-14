@@ -1,4 +1,4 @@
-# About the repository 
+# About the Repository 
 This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements.
 ## What is inside 
 - **Images Folder:** to put the images used within this repo
