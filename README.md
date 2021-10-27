@@ -1,6 +1,6 @@
 # About the Repository 
 This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements.
-## What is inside 
+## What are inside 
 - [**Images Folder:**](https://github.com/shhdSU/MTA-Subway-Dataset-Analysis/tree/main/Images) to put the images used within this repo
 - [**Sales Dataset Folder:**](https://github.com/shhdSU/MTA-Subway-Dataset-Analysis/tree/main/Sales_Dataset) the additional sales dataset used to support the taken decision 
 - [**Jupyter Notebooks Folder:**](https://github.com/shhdSU/MTA-Subway-Dataset-Analysis/tree/main/Jupyter_Notebooks) contains 3 Jupyter Notebook for data analysis
